@@ -1,0 +1,32 @@
+{
+  "name": "bmktea",
+  "version": "1.0.0",
+  "description": "data bmkg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rohim2810/bmktea.git"
+  },
+  "keywords": [
+    "bmkg",
+    "cuaca",
+    "api-cuaca"
+  ],
+  "author": "dhohirpradana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohim2810/bmktea/issues"
+  },
+  "homepage": "https://github.com/rohim2810/bmktea#readme",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "check-gempa": "^1.0.0",
+    "conver-currency": "^0.1.0",
+    "fast-xml-parser": "^4.0.12",
+    "mementea": "^1.1.0",
+    "xml-js": "^1.6.11"
+  }
+}
